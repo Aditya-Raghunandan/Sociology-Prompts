@@ -45,3 +45,21 @@
 * "okay im fillinf out my prompts can you give me all the promts in markdown
 * "[Uploaded image of previous prompt log] in markdown format"
 * "no i want you to do this for the prompts in this chat only"
+
+* # LLM Prompt Repository – ELEN4019 Topic 5
+
+## AI Used: ChatGPT
+
+- "I need to remove at least 150 words from my essay. Where can I cut without weakening my argument?"
+- "I like the introduction — maybe I should remove words from somewhere else?"
+- "Can you give me the full LaTeX replacement to tighten the duplication analogy and compress the consequentialism explanation?"
+- "How does this revised version look?"
+- "Can you review my updated draft and tell me if there are any logical gaps or tone issues?"
+- "Does the duplication section still make sense after tightening it?"
+- "Is my consequentialist explanation still philosophically accurate after compression?"
+- "Are there any small academic tone issues I should fix before submission?"
+- "Does my deontological section flow properly from the consequentialist section?"
+- "Is the Batman analogy too informal for a university ethics essay?"
+- "Are there any spelling or citation formatting issues I should correct?"
+- "Overall, does this read like a strong engineering ethics essay?"
+- "Can you look at how I structured my LLM prompt repository and tell me if it makes sense?"
