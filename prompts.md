@@ -29,6 +29,19 @@
 * "[Provided updated Introduction] in my introduction i dont give a conclusion for the publication and only for the censorship i think i need to add a conclusion for the publication unless its fine as is"
 * "okay so ill start with stating the most approriate rule and then how it leans more towards consequentialism and how the rule is more about physical safety than protecting peoples feelings... what if protecting the public health and safety is to let them grow from this ?"
 * "the only issue i have so far is this line [Excerpt about author's intent]... if the authors intent was to coerce people into building an ai then he is in the wrong and now my argument that deontology says its okay to publish as it helps people grow is invalid, if only there was a source that discussed his intent"
-* "can you gibe it to me with the parencite and bibtex"
-* "this reference doesnt work give me another"
 * "okay i need to do my conclusion following the recource on
+
+* # LLM Prompt Repository
+
+## AI Used: Gemini
+* "how do i properly format the ECSA code of conduct in my bibtex file? should the author be the organisation?"
+* "can you scan my body paragraphs to make sure i consistently used south african english spelling like 'analyse' and 'prioritise' instead of american english?"
+* "my overleaf word count is sitting at around 2050 words, can you point out any areas in the logical flaws paragraphs where i am being repetitive so i can trim it down myself?"
+* "does my transition sentence at the end of the consequentialist section flow well into the deontological section, or is the contrast too abrupt?"
+* "how do i make sure my bibliography prints on a separate page in overleaf, is there a specific command for that before the printbibliography?"
+* "just to be sure im understanding this right, would rule utilitarianism differ from act utilitarianism when looking at the basilisk censorship, or do they both end up at the same conclusion here?"
+* "can you check if my use of the Batman analogy in the ECSA paragraph sounds too informal for a university ethics essay, and how i can keep the concept but make the phrasing more academic?"
+* "hi , i have to do an essay for my course can you help set up the overleaf format , 1.5 spaced and times new roman i will leave the referencing up to you , im doing topic 5 right now its encrypted with rot 13 for idk what reason , Option 5 (Warning: This topic contains an information hazard.) Pbafvqre gur pbaprcg bs Ebxb’f Onfvyvfx. Qvfphff gur rguvpf bs n) gur vqrn naq o) pevgvpvfz bs gur bevtvany vqrn, sebz gur crefcrpgvir bs gjb abezngvir senzrjbexf naq bar cevapvcyr sbhaq jvguva gur RPFN pbqr bs pbaqhpg."
+* "okay im fillinf out my prompts can you give me all the promts in markdown
+* "[Uploaded image of previous prompt log] in markdown format"
+* "no i want you to do this for the prompts in this chat only"
