@@ -12,7 +12,7 @@
 > Give me a LaTeX template for my preLLM draft, structured like the one I used for my previous essay on Roko's Basilisk.
 
 ## Prompt 3: Reviewing My Pre-LLM Draft
-> Here is my preLLM draft. Does it read convincingly as my own rough notes? Flag anything that sounds too polished or AI-generated.
+> Here is my preLLM draft. Does it make sense.
 
 ## Prompt 4: Framework Selection
 > I'm deciding between virtue ethics, Ubuntu, and utilitarianism for my second framework. Which gives me the clearest contrast with deontology?
