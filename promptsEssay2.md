@@ -8,8 +8,8 @@
 ## Prompt 1: Topic Selection
 > Here is the next assignment. I want to do the ML black box one. Here are some lectures I haven't done — do I need to complete any before starting?
 
-## Prompt 2: Pre-LLM Template
-> Can you give me a LaTeX skeleton for my pre-LLM draft with section headings and word budgets?
+## Prompt 2: Template
+> Can you give me a LaTeX skeleton for my essay with word budgets? I will use this to form the essay that I need to write.
 
 ## Prompt 3: Checking My Black Box Definition
 > ML models can be classified into different algorithms, some of them are called neural nets modelled after the brain. Similarly to a brain, the exact path to decisions cannot be fully understood. This is what I have for "What is the black box in ML." Does the paper say anything about this, and is my reasoning accurate?
